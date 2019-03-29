@@ -6,7 +6,7 @@
 
 赛题地址：https://www.datafountain.cn/competitions/337/details
 
-
+评价指标为：1/(1+MAE)
 
 本次代码采用了l1正则和l2正则的加权平均的做法
 
